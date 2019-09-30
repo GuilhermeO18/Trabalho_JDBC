@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}https://github.com/GuilhermeO18/Trabalho01.git
+${licensePrefix}https://github.com/GuilhermeO18
+${licensePrefix}guilherme.oliveirag18@gmail.com
+<#if licenseLast??>
+${licenseLast}
+</#if>
